@@ -1,0 +1,53 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Backup files
+*~
+*.backup
+*.bak
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+temp/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Physics simulation output
+simulation_results/
+plots/
+data/
+
+# Large data files
+*.dat
+*.raw
+*.bin
+
+# MATLAB/Octave
+*.m~
+octave-workspace
+
+# Jupyter Notebook
+.ipynb_checkpoints
