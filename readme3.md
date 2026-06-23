@@ -91,7 +91,7 @@ That is close to what you’re reaching for. The key word is **relative** phase.
 For a spin-½ electron, ignoring position for the moment, the spin state is:
 
 
-$${|\psi\rangle = \alpha |\uparrow z\rangle + \beta |\downarrow z\rangle}$$ xxx
+$|\psi\rangle = \alpha |\uparrow z\rangle + \beta |\downarrow z\rangle$
 
 
 or as a column vector:
