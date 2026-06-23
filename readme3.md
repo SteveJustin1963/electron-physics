@@ -96,31 +96,31 @@ $|\psi\rangle = \alpha |\uparrow z\rangle + \beta |\downarrow z\rangle$
 
 or as a column vector:
 
-[
+$
 \chi =
 \begin{pmatrix}
 \alpha \
 \beta
 \end{pmatrix}
-]
+$
 
 with
 
-[
+$
 |\alpha|^2 + |\beta|^2 = 1
-]
+$
 
 Here:
 
-[
+$
 |\alpha|^2
-]
+$
 
 is the probability of measuring spin-up along (z), and
 
-[
+$
 |\beta|^2
-]
+$
 
 is the probability of measuring spin-down along (z).
 
@@ -128,27 +128,27 @@ But the deep part is that (\alpha) and (\beta) are **complex numbers**. So they 
 
 Write them as:
 
-[
+$
 \alpha = |\alpha|e^{i\theta_\alpha}
-]
+$
 
-[
+$
 \beta = |\beta|e^{i\theta_\beta}
-]
+$
 
 The absolute phase does not matter:
 
-[
+$
 \chi \rightarrow e^{i\gamma}\chi
-]
+$
 
 does not change the physical state.
 
 But the **relative phase** does matter:
 
-[
+$
 \theta_\beta - \theta_\alpha
-]
+$
 
 That relative phase is where your “phase flow” intuition starts to become technically real.
 
@@ -158,14 +158,14 @@ That relative phase is where your “phase flow” intuition starts to become te
 
 Any pure spin-½ state can be written as:
 
-[
+$
 |\psi\rangle
 ============
 
 \cos\frac{\theta}{2}|\uparrow z\rangle
 +
 e^{i\phi}\sin\frac{\theta}{2}|\downarrow z\rangle
-]
+$
 
 This is a beautiful formula.
 
